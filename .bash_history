@@ -15,3 +15,25 @@ sudo docker container run -d -p 8080:8080--name jenkins jenkins/jenkins
 sudo docker container run -d -p 8080:8080 --name jenkins jenkins/jenkins
 curl http://checkip.amazonaws.com
 sudo docker exec -it jenkins bash
+https://3.227.230.38:8080
+sudo yum update
+sudo service docker start
+docker container start jenkins
+sudo docker container start jenkins
+git --version
+vim jenkinsfile
+git init
+git add .
+git commit -m "initial commit"
+git status
+git remote add origin https://github.com/Meerakrishna166734/Practise_jenkins.git
+git push origin master
+vim jenkinsfile
+git init
+git add .
+git commit -m first commit"
+
+
+
+
+$ git commit -m "first commit"

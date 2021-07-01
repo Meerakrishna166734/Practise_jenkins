@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1625117197,,"wq"
+|2,0,1625119610,,"wq"
 :w
 |2,0,1625117176,,"w"
 
@@ -27,20 +27,45 @@
 # Registers:
 
 # File marks:
-'0  10  0  ~/jenkinsfile
-|4,48,10,0,1625117197,"~/jenkinsfile"
+'0  9  13  ~/jenkinsfile
+|4,48,9,13,1625119610,"~/jenkinsfile"
+'1  9  13  ~/jenkinsfile
+|4,49,9,13,1625119323,"~/jenkinsfile"
+'2  11  0  ~/jenkinsfile
+|4,50,11,0,1625117197,"~/jenkinsfile"
+'3  10  0  ~/jenkinsfile
+|4,51,10,0,1625117197,"~/jenkinsfile"
+'4  11  0  ~/jenkinsfile
+|4,52,11,0,1625117197,"~/jenkinsfile"
+'5  10  0  ~/jenkinsfile
+|4,53,10,0,1625117197,"~/jenkinsfile"
 
 # Jumplist (newest first):
+-'  9  13  ~/jenkinsfile
+|4,39,9,13,1625119610,"~/jenkinsfile"
+-'  9  13  ~/jenkinsfile
+|4,39,9,13,1625119323,"~/jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1625119255,"~/jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1625119255,"~/jenkinsfile"
 -'  10  0  ~/jenkinsfile
 |4,39,10,0,1625117197,"~/jenkinsfile"
+-'  10  0  ~/jenkinsfile
+|4,39,10,0,1625117197,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1625116821,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1625116821,"~/jenkinsfile"
 -'  1  0  ~/jenkinsfile
 |4,39,1,0,1625116821,"~/jenkinsfile"
 
 # History of marks within files (newest to oldest):
 
 > ~/jenkinsfile
-	*	1625117194	0
-	"	10	0
-	^	10	1
-	.	10	0
-	+	10	0
+	*	1625119605	0
+	"	9	13
+	^	9	14
+	.	9	13
+	+	11	0
+	+	9	13
