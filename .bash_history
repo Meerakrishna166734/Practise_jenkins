@@ -37,3 +37,15 @@ git commit -m first commit"
 
 
 $ git commit -m "first commit"
+sudo docker container start jenkins
+sudo docker jenkins start
+sudo docker start jenkins
+sudo docker container start jenkins
+vim jenkinsfile
+git init
+git add .
+git status
+git commit -m "first commit"
+git status
+git remote add origin https://github.com/Meerakrishna166734/Practise_jenkins.git
+git push origin master
